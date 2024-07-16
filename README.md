@@ -1,6 +1,6 @@
 # About me
 <p>Hey! 👋 I'm Shohjahon Akramaliev .</p>
-
+- Leetcode:                           [shohjahon_ahi](https://leetcode.com/u/Shohjahon_ahi/)
 - Telegram:                           [shohjahon_ahi](https://t.me/shohjahon_ahi)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css)](https://skillicons.dev)
